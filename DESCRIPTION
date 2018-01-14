@@ -1,0 +1,10 @@
+Package: el.db
+Title: Utilities For Accessing Erlichlab Database
+Version: 0.0.1
+Authors@R: person("Jeffrey", "Erlich", email = "jerlich@nyu.edu", role = c("aut", "cre"))
+Description: This package contains a set of functions for accessing data from the Erlich Lab MySQL database. 
+Depends: R (>= 3.4.1)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
