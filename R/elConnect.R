@@ -2,7 +2,7 @@
 #'
 #' A helper function to connect to the database using .dbconf
 #'
-#' @param config Will use this config in the .dbconf file. Defaual 'client'
+#' @param config Will use this config in the ~/.dbconf file. Default 'client'
 #'
 #' @return A connection object as returned from RMySQL
 #' @export

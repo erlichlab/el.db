@@ -3,7 +3,7 @@ Title: Utilities For Accessing Erlichlab Database
 Version: 0.0.1
 Authors@R: person("Jeffrey", "Erlich", email = "jerlich@nyu.edu", role = c("aut", "cre"))
 Description: This package contains a set of functions for accessing data from the Erlich Lab MySQL database. 
-Depends: R (>= 3.4.1)
+Depends: R (>= 3.4.1), RMySQL (>= 0.10.13)
 Imports:
 	ini,
 	RMySQL,

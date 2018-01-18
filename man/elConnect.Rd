@@ -7,7 +7,7 @@
 elConnect(config = "client")
 }
 \arguments{
-\item{config}{Will use this config in the .dbconf file. Defaual 'client'}
+\item{config}{Will use this config in the ~/.dbconf file. Default 'client'}
 }
 \value{
 A connection object as returned from RMySQL
