@@ -17,7 +17,7 @@ Once your .dbconf is setup, you should be able to do
 
 ```
 library(devtools)
-install_github("https://github.com/erlichlab/el.db.git")
+install_git("https://github.com/erlichlab/el.db.git")
 library(el.db)
 con = elConnect()
 out = dbGetQuery(con, 'select * from met.animals limit 20')
